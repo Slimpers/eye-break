@@ -6,7 +6,7 @@
 и заставляет оторваться от монитора. Чтобы глаза не «вытекали» после бесконечного
 сидения за ПК.
 
-**[⬇️ Скачать EyeBreak.exe (последний релиз)](https://github.com/Slimpers/eye-break/releases/latest)** — запусти и забудь, зависимостей нет.
+**[⬇️ Скачать EyeBreak.exe](https://github.com/Slimpers/eye-break/releases/latest/download/EyeBreak.exe)** — запусти и забудь, зависимостей нет.
 
 <br clear="left"/>
 
@@ -44,7 +44,7 @@
 
 ### Вариант 1 — готовый EXE (ничего ставить не надо)
 
-Скачай `EyeBreak.exe` со [страницы релизов](https://github.com/Slimpers/eye-break/releases/latest)
+[Скачай `EyeBreak.exe`](https://github.com/Slimpers/eye-break/releases/latest/download/EyeBreak.exe)
 и запусти. Окна не будет — программа висит в фоне и сама покажет плашку через час.
 
 ### Вариант 2 — из исходника
