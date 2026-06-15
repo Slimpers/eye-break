@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller build artifacts (готовый EyeBreak.exe коммитим намеренно)
+build/
+dist/
+*.spec
+
+# IDE
+.idea/
+.vscode/
